@@ -33,11 +33,7 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BahirYasrebSeemab&theme=transparent&hide_border=false&include_all_commits=true&show_icons=true)](https://github.com/BahirYasrebSeemab)
-
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BahirYasrebSeemab&theme=transparent&hide_border=false)](https://github.com/BahirYasrebSeemab)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BahirYasrebSeemab&theme=transparent&hide_border=false&layout=compact&langs_count=8)](https://github.com/BahirYasrebSeemab)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
