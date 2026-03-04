@@ -31,10 +31,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/BahirYasrebSeemab)
 [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://github.com/BahirYasrebSeemab)
 
-## 📊 GitHub Stats:
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BahirYasrebSeemab&theme=transparent&hide_border=false)](https://github.com/BahirYasrebSeemab)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
